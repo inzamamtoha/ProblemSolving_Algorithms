@@ -1,0 +1,10 @@
+Assignment for Data Structure lab :
+1.Implementation of Stack and Queue using Linked list and Array
+2. Evaluating your own made infix expression
+i) At least 10 operands
+ii)At least 6 operators(all of +,-.*,/ should be included)
+iii)At least 4 pair of brackets
+Khali code gula lab er din niye gelei hobe......
+Assignment for Data Structure class:
+10.1-10.7 from CLRS book
+submission date: next class

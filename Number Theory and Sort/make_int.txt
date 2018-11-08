@@ -1,0 +1,12 @@
+long long int make_int(char a[],int start,int last)
+{
+    int y,j,carry;
+     for(j=start;j<last;j++)
+           {
+             carry=(a[j]-48);
+             y=y*10;
+             y=y+carry;
+           }
+    return y;
+
+}
